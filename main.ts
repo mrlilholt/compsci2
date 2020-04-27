@@ -1,3 +1,4 @@
+// okay keep working!
 let mySprite = sprites.create(img`
 . . . . . 3 3 b 3 3 d d 3 3 . . 
 . . . . 3 1 1 d 3 d 1 1 1 1 3 . 
